@@ -5,12 +5,12 @@
 
 <div align="center">
 
-# إياد دادوش
+# إياد دعدوش
 
 ### مطوّر Full Stack · مطوّر تطبيقات · مطوّر برمجيات منخفضة المستوى
 
-[![GitHub](https://img.shields.io/badge/GitHub-iyad--dadush-181717?style=for-the-badge\&logo=github)](https://github.com/iyaddadush)
-[![GitHub](https://img.shields.io/badge/GitHub-anothereaccont-181717?style=for-the-badge\&logo=github)](https://github.com/iyad-dadush)
+[![GitHub](https://img.shields.io/badge/GitHub-iyaddadush-181717?style=for-the-badge\&logo=github)](https://github.com/iyad-dadush)
+[![GitHub](https://img.shields.io/badge/GitHub-anothereaccont-181717?style=for-the-badge\&logo=github)](https://github.com/iyaddadush)
 
 </div>
 
