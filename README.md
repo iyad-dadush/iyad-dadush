@@ -9,7 +9,7 @@
 
 ### Full Stack Developer · App Developer · Low-Level Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-iyad--dadush-181717?style=for-the-badge&logo=github)](https://github.com/iyad-dadush)
+[![GitHub](https://img.shields.io/badge/GitHub-iyaddadush-181717?style=for-the-badge&logo=github)](https://github.com/iyad-dadush)
 [![GitHub](https://img.shields.io/badge/GitHub-anothereaccont-181717?style=for-the-badge&logo=github)](https://github.com/iyadDadush)
 
 
